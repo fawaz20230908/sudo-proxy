@@ -19,3 +19,4 @@ Read the docs at https://docs.movie-web.app/proxy/introduction
  - AWS lambda
  - nodejs
  - netlify edge functions
+https://melodic-panda-c775fb.netlify.app/
